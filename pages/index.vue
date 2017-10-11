@@ -5,7 +5,7 @@
         <img src="/v.png" alt="" class="mb-5" />
       </div>
       <v-card>
-        <v-card-title class="headline">Welcome to Vueler</v-card-title>
+        <v-card-title class="headline">Welcome to Vueler!</v-card-title>
         <v-card-text>
           <p>Vueler is a way to teach web fundamentals with new and fun ways to reason about code.</p>
           

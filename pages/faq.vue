@@ -2,10 +2,10 @@
   <v-layout column align-center>
     <img src="/v.png" alt="Vuetify.js" class="mb-5">
     <blockquote>
-      &#8220;First, solve the problem. Then, write the code.&#8221;
+      FAQ Goes Here!
       <footer>
         <small>
-          <em>&mdash;John Johnson</em>
+          <em>&mdash;Vueler</em>
         </small>
       </footer>
     </blockquote>
