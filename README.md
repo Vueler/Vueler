@@ -1,22 +1,12 @@
 # vueler
 
-> Nuxt.js + Vuetify.js project
+> Vueler is a way to teach web fundamentals with new and fun ways to reason about code.
 
-## Build Setup
+## More...
 
-``` bash
-# install dependencies
-$ npm install # Or yarn install
+Take on ideas using pseudocode, and encounter all the tools available to connect your reasoning to the computer.
+Start learning how to reason with machines in just 10 minutes!
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+## Contribute
 
-# build for production and launch server
-$ npm run build
-$ npm start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out the [Nuxt.js](https://github.com/nuxt/nuxt.js) and [Vuetify.js](https://vuetifyjs.com/) documentation.
+Add your own solutions to the problems and they'll be added to the repo with attribution. Add your own flair and make your solution stand out!
