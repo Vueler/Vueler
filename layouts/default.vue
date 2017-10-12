@@ -8,7 +8,7 @@
       app
     >
       <v-list>
-        <v-list-tile 
+        <v-list-tile @click="drawer = !drawer"
           router
           :to="item.to"
           :key="i"
